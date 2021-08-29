@@ -1,6 +1,6 @@
 
   .carousel-caption {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 16, 61, 0.8);
 }
 
 
@@ -12,19 +12,37 @@
 }
 .section{
     background-color: #00e; 
-    padding:10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+
 }
-#section{
-    background-color: #00e; 
-    padding:10px;
+.section-desc{
+    background-color: rgb(80, 80, 255); 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
 }
-#courses_container{
-    background-color:#aaf;
-    margin: 10px;
-    width: 100%;
+.subsection{
+    padding:50px;
+    margin-left: 100px;
+    border-color: royalblue;
+    border-radius: 50px;
+    border-width: 10px;
+    border-style: solid;
 }
+.subtitle{
+    color: white;
+    font-weight: 400;
+}
+
+.small .h4{
+    color:white;
+}
+
 #courses_col{
-    background-color:#1ff;
+    background-color:rgba(100, 145, 255, 1);
 
 }
 #courses_row{
